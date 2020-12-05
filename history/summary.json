@@ -5,7 +5,15 @@
     "slug": "eksi-soezluek",
     "status": "up",
     "uptime": "100.00%",
-    "time": 913
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 902,
+    "timeDay": 849,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902
   },
   {
     "name": "Once Coupon A Time",
@@ -13,6 +21,14 @@
     "slug": "once-coupon-a-time",
     "status": "up",
     "uptime": "100.00%",
-    "time": 574
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 601,
+    "timeDay": 730,
+    "timeWeek": 601,
+    "timeMonth": 601,
+    "timeYear": 601
   }
 ]

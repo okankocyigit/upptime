@@ -2,6 +2,7 @@
   {
     "name": "Ekşi Sözlük",
     "url": "https://eksisozluk.com",
+    "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 880,
-    "timeWeek": 899,
-    "timeMonth": 899,
-    "timeYear": 899
+    "time": 921,
+    "timeDay": 1073,
+    "timeWeek": 921,
+    "timeMonth": 921,
+    "timeYear": 921,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Once Coupon A Time",
     "url": "https://oncecouponatime.com",
+    "icon": "https://favicons.githubusercontent.com/oncecouponatime.com",
     "slug": "once-coupon-a-time",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 638,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606
+    "time": 613,
+    "timeDay": 665,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
+    "dailyMinutesDown": {}
   }
 ]

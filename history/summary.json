@@ -4,18 +4,20 @@
     "url": "https://eksisozluk.com",
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 1027,
-    "timeWeek": 944,
-    "timeMonth": 937,
-    "timeYear": 937,
-    "dailyMinutesDown": {}
+    "time": 912,
+    "timeDay": 834,
+    "timeWeek": 906,
+    "timeMonth": 912,
+    "timeYear": 912,
+    "dailyMinutesDown": {
+      "2020-12-10": 0
+    }
   },
   {
     "name": "Once Coupon A Time",

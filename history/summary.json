@@ -4,19 +4,19 @@
     "url": "https://eksisozluk.com",
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
-    "status": "up",
-    "uptime": "93.03%",
-    "uptimeDay": "64.78%",
-    "uptimeWeek": "64.26%",
-    "uptimeMonth": "85.92%",
-    "uptimeYear": "93.03%",
+    "status": "down",
+    "uptime": "93.08%",
+    "uptimeDay": "65.85%",
+    "uptimeWeek": "64.60%",
+    "uptimeMonth": "86.01%",
+    "uptimeYear": "93.08%",
     "time": 1111,
-    "timeDay": 966,
+    "timeDay": 977,
     "timeWeek": 1199,
     "timeMonth": 1143,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2021-01-30": 442,
+      "2021-01-30": 443,
       "2021-01-29": 447,
       "2021-01-28": 428,
       "2021-01-27": 358,
@@ -26,8 +26,7 @@
       "2021-01-23": 716,
       "2021-01-22": 481,
       "2021-01-21": 724,
-      "2021-01-20": 696,
-      "2021-01-19": 21
+      "2021-01-20": 681
     }
   },
   {
@@ -35,17 +34,19 @@
     "url": "https://oncecouponatime.com",
     "icon": "https://favicons.githubusercontent.com/oncecouponatime.com",
     "slug": "once-coupon-a-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 989,
-    "timeWeek": 814,
-    "timeMonth": 717,
-    "timeYear": 667,
-    "dailyMinutesDown": {}
+    "time": 900,
+    "timeDay": 8160,
+    "timeWeek": 2629,
+    "timeMonth": 1174,
+    "timeYear": 900,
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   }
 ]

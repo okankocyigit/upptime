@@ -6,14 +6,14 @@
     "slug": "eksi-soezluek",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "64.62%",
-    "uptimeWeek": "67.61%",
+    "uptimeDay": "67.30%",
+    "uptimeWeek": "67.86%",
     "uptimeMonth": "92.49%",
     "uptimeYear": "96.76%",
     "time": 1121,
-    "timeDay": 1650,
+    "timeDay": 1678,
     "timeWeek": 1191,
-    "timeMonth": 1141,
+    "timeMonth": 1142,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2021-02-08": 495,
@@ -40,7 +40,7 @@
     "time": 885,
     "timeDay": 742,
     "timeWeek": 695,
-    "timeMonth": 1210,
+    "timeMonth": 1224,
     "timeYear": 885,
     "dailyMinutesDown": {}
   }

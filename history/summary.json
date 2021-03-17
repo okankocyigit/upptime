@@ -6,17 +6,17 @@
     "slug": "eksi-soezluek",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "73.84%",
-    "uptimeWeek": "80.20%",
-    "uptimeMonth": "91.54%",
+    "uptimeDay": "77.61%",
+    "uptimeWeek": "80.29%",
+    "uptimeMonth": "91.50%",
     "uptimeYear": "97.58%",
     "time": 1048,
-    "timeDay": 770,
-    "timeWeek": 1078,
+    "timeDay": 768,
+    "timeWeek": 1085,
     "timeMonth": 959,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2021-03-16": 333,
+      "2021-03-16": 324,
       "2021-03-15": 631,
       "2021-03-14": 224,
       "2021-03-13": 143,
@@ -26,7 +26,7 @@
       "2021-03-09": 304,
       "2021-03-08": 490,
       "2021-03-07": 629,
-      "2021-03-06": 288
+      "2021-03-06": 312
     }
   },
   {
@@ -41,8 +41,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
-    "timeDay": 667,
-    "timeWeek": 624,
+    "timeDay": 594,
+    "timeWeek": 629,
     "timeMonth": 597,
     "timeYear": 800,
     "dailyMinutesDown": {}

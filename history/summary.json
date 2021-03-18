@@ -4,15 +4,15 @@
     "url": "https://eksisozluk.com",
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "74.34%",
-    "uptimeWeek": "78.79%",
-    "uptimeMonth": "91.80%",
-    "uptimeYear": "97.69%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "75.82%",
+    "uptimeWeek": "78.78%",
+    "uptimeMonth": "91.94%",
+    "uptimeYear": "97.73%",
     "time": 1043,
-    "timeDay": 765,
-    "timeWeek": 1059,
+    "timeDay": 769,
+    "timeWeek": 1062,
     "timeMonth": 953,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
       "2021-03-10": 191,
       "2021-03-09": 304,
       "2021-03-08": 490,
-      "2021-03-07": 364
+      "2021-03-07": 305
     }
   },
   {

@@ -4,7 +4,7 @@
     "url": "https://eksisozluk.com",
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
-    "status": "up",
+    "status": "down",
     "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 779,
-    "timeDay": 932,
-    "timeWeek": 713,
-    "timeMonth": 664,
+    "timeDay": 697,
+    "timeWeek": 730,
+    "timeMonth": 668,
     "timeYear": 779,
     "dailyMinutesDown": {}
   }

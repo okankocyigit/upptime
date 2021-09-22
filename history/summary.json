@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "87.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.95%",
-    "uptimeMonth": "16.26%",
+    "uptimeWeek": "79.17%",
+    "uptimeMonth": "16.31%",
     "uptimeYear": "87.80%",
     "time": 960,
     "timeDay": 873,
@@ -86,19 +86,19 @@
     "url": "https://oncecouponatime.com",
     "icon": "https://favicons.githubusercontent.com/oncecouponatime.com",
     "slug": "once-coupon-a-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 6311,
-    "timeWeek": 2490,
-    "timeMonth": 1158,
-    "timeYear": 782,
+    "time": 831,
+    "timeDay": 8592,
+    "timeWeek": 3784,
+    "timeMonth": 1577,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2021-09-22": 12
+      "2021-09-22": 0
     }
   }
 ]

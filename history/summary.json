@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
     "status": "up",
-    "uptime": "87.79%",
+    "uptime": "87.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.84%",
-    "uptimeMonth": "16.23%",
-    "uptimeYear": "87.79%",
+    "uptimeWeek": "78.95%",
+    "uptimeMonth": "16.26%",
+    "uptimeYear": "87.80%",
     "time": 960,
     "timeDay": 873,
     "timeWeek": 666,
@@ -86,19 +86,19 @@
     "url": "https://oncecouponatime.com",
     "icon": "https://favicons.githubusercontent.com/oncecouponatime.com",
     "slug": "once-coupon-a-time",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 782,
-    "timeDay": 9072,
-    "timeWeek": 2703,
-    "timeMonth": 1169,
+    "timeDay": 6311,
+    "timeWeek": 2490,
+    "timeMonth": 1158,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2021-09-22": 0
+      "2021-09-22": 12
     }
   }
 ]

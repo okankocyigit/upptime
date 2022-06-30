@@ -1,7 +1,7 @@
 url: https://eksisozluk.com
-status: up
-code: 200
-responseTime: 749
-lastUpdated: 2022-06-30T06:31:28.393Z
+status: down
+code: 503
+responseTime: 123
+lastUpdated: 2022-06-30T10:51:16.173Z
 startTime: Mon Nov 30 2020 08:54:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

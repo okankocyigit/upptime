@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/eksisozluk.com",
     "slug": "eksi-soezluek",
     "status": "up",
-    "uptime": "94.09%",
+    "uptime": "94.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "91.86%",
-    "time": 673,
-    "timeDay": 336,
-    "timeWeek": 745,
-    "timeMonth": 584,
-    "timeYear": 666,
+    "uptimeYear": "92.06%",
+    "time": 672,
+    "timeDay": 322,
+    "timeWeek": 669,
+    "timeMonth": 569,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2022-08-07": 68,
       "2022-08-06": 74,
@@ -76,8 +76,7 @@
       "2021-08-22": 1440,
       "2021-08-21": 388,
       "2021-08-19": 855,
-      "2021-08-18": 331,
-      "2021-08-17": 553
+      "2021-08-18": 331
     }
   },
   {
@@ -92,10 +91,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 809,
-    "timeDay": 608,
-    "timeWeek": 694,
-    "timeMonth": 646,
-    "timeYear": 848,
+    "timeDay": 609,
+    "timeWeek": 686,
+    "timeMonth": 639,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2022-08-05": 25,
       "2022-07-01": 26,

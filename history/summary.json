@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eksisozluk.com.ico",
     "slug": "eksi-soezluek",
     "status": "down",
-    "uptime": "75.50%",
+    "uptime": "75.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 373,
-    "timeDay": 131,
-    "timeWeek": 109,
-    "timeMonth": 117,
+    "time": 346,
+    "timeDay": 102,
+    "timeWeek": 107,
+    "timeMonth": 116,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-07-11": 82,
+      "2025-07-12": 83,
+      "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -379,8 +380,7 @@
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
-      "2024-07-13": 1440,
-      "2024-07-12": 1440
+      "2024-07-13": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 666,
-    "timeDay": 668,
-    "timeWeek": 606,
-    "timeMonth": 600,
+    "timeDay": 595,
+    "timeWeek": 615,
+    "timeMonth": 601,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-05-06": 26,

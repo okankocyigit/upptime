@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eksisozluk.com.ico",
     "slug": "eksi-soezluek",
     "status": "down",
-    "uptime": "68.81%",
+    "uptime": "68.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 129,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-02-04": 107,
+      "2026-02-04": 956,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -360,9 +360,9 @@
     "url": "https://oncecouponatime.com",
     "icon": "https://icons.duckduckgo.com/ip3/oncecouponatime.com.ico",
     "slug": "once-coupon-a-time",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -372,6 +372,7 @@
     "timeMonth": 599,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2026-02-04": 0,
       "2025-11-18": 90,
       "2025-05-06": 26
     }
